@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+.reg_name{
+    margin-left: 200px;
+}
+
+
+
+
+#bt{
+    width: 200px;
+    height: 50px;
+    background-color: yellow;
+}
+
+#fs{
+   background-color: goldenrod;
+   margin-left: 11rem;
+   margin-right: 60rem;
+   margin-top: 1rem;
+}
